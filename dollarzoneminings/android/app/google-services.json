@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468654769709",
+    "project_id": "dollarzoneminings",
+    "storage_bucket": "dollarzoneminings.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468654769709:android:cbd05f9bfc0438c79e1aa4",
+        "android_client_info": {
+          "package_name": "com.dollarzoneminings.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCojPy_-lznWa-v3gJRoD4Jf_tAaMgbwSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
